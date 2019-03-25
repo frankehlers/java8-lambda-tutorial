@@ -143,6 +143,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -160,11 +163,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3235" />
+    <option name="x" value="3234" />
     <option name="y" value="-465" />
-    <option name="width" value="2534" />
-    <option name="height" value="2111" />
+    <option name="width" value="2535" />
+    <option name="height" value="2112" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -199,7 +203,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553532615052" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553540557890" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -278,12 +283,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553525409687</updated>
-      <workItem from="1553525412000" duration="7564000" />
+      <workItem from="1553525412000" duration="7857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7564000" />
+    <option name="totallyTimeSpent" value="7857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2797" y="-485" width="1689" height="1407" extended-state="0" />
